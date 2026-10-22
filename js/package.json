@@ -6,7 +6,7 @@
     "external-load": "^1.0.0",
     "flarum-webpack-config": "^2.0.0",
     "pdfobject": "^2.3.0",
-    "webpack": "^5.88.1",
+    "webpack": "^5.112.0",
     "webpack-cli": "^5.1.4"
   },
   "scripts": {
